@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PKOMovie</string>
+    <string name="api_token">eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjYWNjZTA0Y2EzMmFkNGU1NzBjYTY5Y2FiYmYwNTU5MSIsInN1YiI6IjY0ZmMzNTRiZWZlYTdhMDExYWI2MTNiMyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.MuAxDk1ByijT0b8hYTDRHDIsGntZp43EINLQmDA2seg</string>
+    <string name="search_box_placeholder">Szukaj</string>
+    <string name="search_no_results">Brak wyników</string>
+    <string name="add_to_favourites">Dodaj do ulubionych</string>
+    <string name="delete_from_favourites">Usuń z ulubionych</string>
+</resources>
